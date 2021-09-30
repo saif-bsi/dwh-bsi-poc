@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryBSI",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd47f2e2-3011-454b-a498-9393ff2710b7",
+		"tenantId": "ddad2676-2ebe-4547-a33f-e89b3d88a676"
+	}
+}
